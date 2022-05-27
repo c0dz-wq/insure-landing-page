@@ -1,0 +1,29 @@
+/* karla-regular - latin */
+@font-face {
+  font-family: 'Karla';
+  font-style: normal;
+  font-weight: 400;
+  src: local(''),
+       url('../fonts/karla-v21-latin-regular.woff2') format('woff2'),
+       url('../fonts/karla-v21-latin-regular.woff') format('woff');
+}
+
+/* karla-700 - latin */
+@font-face {
+  font-family: 'Karla';
+  font-style: normal;
+  font-weight: 700;
+  src: local(''),
+       url('../fonts/karla-v21-latin-700.woff2') format('woff2'),
+       url('../fonts/karla-v21-latin-700.woff') format('woff');
+}
+
+/* dm-serif-display-regular - latin */
+@font-face {
+  font-family: 'DM Serif Display';
+  font-style: normal;
+  font-weight: 400;
+  src: local(''),
+       url('../fonts/dm-serif-display-v9-latin-regular.woff2') format('woff2'),
+       url('../fonts/dm-serif-display-v9-latin-regular.woff') format('woff');
+}
